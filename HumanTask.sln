@@ -1,0 +1,112 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanTask", "HumanTask\HumanTask.csproj", "{25DDEE6B-FAC7-4931-8633-1BF296820F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertySet", "PropertySet\PropertySet.csproj", "{5BA82E1B-8CF0-4692-B0D3-83860BF0B01C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertySet.Mongo", "PropertySet.Mongo\PropertySet.Mongo.csproj", "{4822E605-AB14-450F-AE8C-2996157575F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertySet.Hibernate", "PropertySet.Hibernate\PropertySet.Hibernate.csproj", "{16A4FF14-3035-4DEC-BDF1-A1A7B8FBC026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanTask.Hibernate", "HumanTask.Hibernate\HumanTask.Hibernate.csproj", "{06494A14-ED2F-43A9-ABB7-4F54FCAF7FBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanTask.Hibernate.Helpers", "HumanTask.Hibernate.Helpers\HumanTask.Hibernate.Helpers.csproj", "{4F01252D-BE33-4583-8843-8184ECD7937D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security", "Security\Security.csproj", "{E187C7CB-C644-4C76-AB86-ECC1E130CA8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{6E459BF0-44D3-4651-931F-8E5C7DA4F930}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://atlanta:9191/tfs/cortex
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HumanTask\\HumanTask.csproj
+		SccProjectName1 = HumanTask
+		SccLocalPath1 = HumanTask
+		SccProjectUniqueName2 = PropertySet\\PropertySet.csproj
+		SccProjectName2 = PropertySet
+		SccLocalPath2 = PropertySet
+		SccProjectUniqueName3 = PropertySet.Mongo\\PropertySet.Mongo.csproj
+		SccProjectName3 = PropertySet.Mongo
+		SccLocalPath3 = PropertySet.Mongo
+		SccProjectUniqueName4 = PropertySet.Hibernate\\PropertySet.Hibernate.csproj
+		SccProjectName4 = PropertySet.Hibernate
+		SccLocalPath4 = PropertySet.Hibernate
+		SccProjectUniqueName5 = HumanTask.Hibernate\\HumanTask.Hibernate.csproj
+		SccProjectName5 = HumanTask.Hibernate
+		SccLocalPath5 = HumanTask.Hibernate
+		SccProjectUniqueName6 = HumanTask.Hibernate.Helpers\\HumanTask.Hibernate.Helpers.csproj
+		SccProjectName6 = HumanTask.Hibernate.Helpers
+		SccLocalPath6 = HumanTask.Hibernate.Helpers
+		SccProjectUniqueName7 = Security\\Security.csproj
+		SccProjectName7 = Security
+		SccLocalPath7 = Security
+		SccProjectUniqueName8 = Common\\Common.csproj
+		SccProjectName8 = Common
+		SccLocalPath8 = Common
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25DDEE6B-FAC7-4931-8633-1BF296820F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DDEE6B-FAC7-4931-8633-1BF296820F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DDEE6B-FAC7-4931-8633-1BF296820F68}.Debug|x86.ActiveCfg = Debug|x86
+		{25DDEE6B-FAC7-4931-8633-1BF296820F68}.Debug|x86.Build.0 = Debug|x86
+		{25DDEE6B-FAC7-4931-8633-1BF296820F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DDEE6B-FAC7-4931-8633-1BF296820F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DDEE6B-FAC7-4931-8633-1BF296820F68}.Release|x86.ActiveCfg = Release|x86
+		{25DDEE6B-FAC7-4931-8633-1BF296820F68}.Release|x86.Build.0 = Release|x86
+		{5BA82E1B-8CF0-4692-B0D3-83860BF0B01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA82E1B-8CF0-4692-B0D3-83860BF0B01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA82E1B-8CF0-4692-B0D3-83860BF0B01C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5BA82E1B-8CF0-4692-B0D3-83860BF0B01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA82E1B-8CF0-4692-B0D3-83860BF0B01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA82E1B-8CF0-4692-B0D3-83860BF0B01C}.Release|x86.ActiveCfg = Release|Any CPU
+		{4822E605-AB14-450F-AE8C-2996157575F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4822E605-AB14-450F-AE8C-2996157575F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4822E605-AB14-450F-AE8C-2996157575F9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4822E605-AB14-450F-AE8C-2996157575F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4822E605-AB14-450F-AE8C-2996157575F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4822E605-AB14-450F-AE8C-2996157575F9}.Release|x86.ActiveCfg = Release|Any CPU
+		{16A4FF14-3035-4DEC-BDF1-A1A7B8FBC026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A4FF14-3035-4DEC-BDF1-A1A7B8FBC026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A4FF14-3035-4DEC-BDF1-A1A7B8FBC026}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{16A4FF14-3035-4DEC-BDF1-A1A7B8FBC026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A4FF14-3035-4DEC-BDF1-A1A7B8FBC026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A4FF14-3035-4DEC-BDF1-A1A7B8FBC026}.Release|x86.ActiveCfg = Release|Any CPU
+		{06494A14-ED2F-43A9-ABB7-4F54FCAF7FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06494A14-ED2F-43A9-ABB7-4F54FCAF7FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06494A14-ED2F-43A9-ABB7-4F54FCAF7FBB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{06494A14-ED2F-43A9-ABB7-4F54FCAF7FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06494A14-ED2F-43A9-ABB7-4F54FCAF7FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06494A14-ED2F-43A9-ABB7-4F54FCAF7FBB}.Release|x86.ActiveCfg = Release|Any CPU
+		{4F01252D-BE33-4583-8843-8184ECD7937D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F01252D-BE33-4583-8843-8184ECD7937D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F01252D-BE33-4583-8843-8184ECD7937D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4F01252D-BE33-4583-8843-8184ECD7937D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F01252D-BE33-4583-8843-8184ECD7937D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F01252D-BE33-4583-8843-8184ECD7937D}.Release|x86.ActiveCfg = Release|Any CPU
+		{E187C7CB-C644-4C76-AB86-ECC1E130CA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E187C7CB-C644-4C76-AB86-ECC1E130CA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E187C7CB-C644-4C76-AB86-ECC1E130CA8B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E187C7CB-C644-4C76-AB86-ECC1E130CA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E187C7CB-C644-4C76-AB86-ECC1E130CA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E187C7CB-C644-4C76-AB86-ECC1E130CA8B}.Release|x86.ActiveCfg = Release|Any CPU
+		{6E459BF0-44D3-4651-931F-8E5C7DA4F930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E459BF0-44D3-4651-931F-8E5C7DA4F930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E459BF0-44D3-4651-931F-8E5C7DA4F930}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6E459BF0-44D3-4651-931F-8E5C7DA4F930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E459BF0-44D3-4651-931F-8E5C7DA4F930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E459BF0-44D3-4651-931F-8E5C7DA4F930}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
